@@ -1,0 +1,7 @@
+trustwallet-assets/
+└── blockchains/
+    └── smartchain/
+        └── assets/
+            └── 0x6D6fbC77B810859138905fdF735CdF9D28Df40f9/
+                ├── logo.png
+                └── info.json
